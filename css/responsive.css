@@ -94,6 +94,15 @@
   .info_section form input {
     text-align: center;
   }
+
+  .logo{
+    width: 25%;
+  }
+
+  .header_section{
+    display: flex;
+    justify-content: space-around;
+  }
 }
 
 @media (max-width: 576px) {}
